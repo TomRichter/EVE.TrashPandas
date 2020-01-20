@@ -19,3 +19,7 @@ a:hover {
     background-size: cover;
     box-shadow: 0 0 16px 32px black inset;
 }
+
+.footer {
+    opacity: 50%;
+}
