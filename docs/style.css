@@ -13,7 +13,7 @@ a:hover {
 }
 
 .scene {
-    background-image: url("img/trashpandas.jpg");
+    background-image: url("img/background.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
